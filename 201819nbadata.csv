@@ -1,4 +1,4 @@
-"name","average rank","index","Player","Pos","Age","Tm","G","GS","MP","3P","3PA","2P","2PA","eFG%","FT","FTA","ORB","DRB","AST","STL","BLK","TOV","PF","PTS"
+"rank","name","average rank","index","Player","Pos","Age","Tm","G","GS","MP","3P","3PA","2P","2PA","eFG%","FT","FTA","ORB","DRB","AST","STL","BLK","TOV","PF","PTS"
 "1","Kawhi Leonard",1.833333333,0.9954166667,"Kawhi Leonard\leonaka01","SF",27,"TOR",60,60,2040,112,302,448,827,0.546,364,426,78,361,199,106,24,121,87,1596
 "2","Giannis Antetokounmpo",2,0.995,"Giannis Antetokounmpo\antetgi01","PF",24,"MIL",72,72,2358,52,203,669,1044,0.599,500,686,159,739,424,92,110,268,232,1994
 "3","LeBron James",2.833333333,0.9929166667,"LeBron James\jamesle01","SF",34,"LAL",55,55,1937,111,327,447,768,0.56,278,418,57,408,454,72,33,197,94,1505
